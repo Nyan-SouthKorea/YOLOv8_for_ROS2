@@ -63,20 +63,20 @@ pip3 install ultralytics
     ```
     clone된 해당 폴더로 이동
 
-3. VS코드 실행(방금 위에서 생성한 yolo 가상환경 연결하기)
+2. VS코드 실행(방금 위에서 생성한 yolo 가상환경 연결하기)
 
-1. Ctrl + Shift + p 버튼을 누르고 "interpreter" 라고 검색하면 아래의 버튼으로 유도됨
+3. Ctrl + Shift + p 버튼을 누르고 "interpreter" 라고 검색하면 아래의 버튼으로 유도됨
 ![alt text](README_images/image_1.png)
 
-2. Enter interpreter path 선택
+4. Enter interpreter path 선택
 ![alt text](README_images/image_2.png)
 
-3. Find -> .. -> yolo -> bin -> python3 선택
+5. Find -> .. -> yolo -> bin -> python3 선택
 
-4. VS코드 종료 후 재 실행
+6. VS코드 종료 후 재 실행
 
-5. 아무 코드나 실행해보자. 이 때 select interpreter에서 yolo가 보이면 선택
+7. 아무 코드나 실행해보자. 이 때 select interpreter에서 yolo가 보이면 선택
 
-6. 이후 VS코드 관련 extension을 설치하라는 안내가 나오면 모두 설치해준다. 그리고 실행이 안되면 VS코드 재실행 반복
+8. 이후 VS코드 관련 extension을 설치하라는 안내가 나오면 모두 설치해준다. 그리고 실행이 안되면 VS코드 재실행 반복
 
-7. 우리가 만든 yolo라는 가상환경으로 코드를 돌릴 수 있도록 설정 마침
+9. 우리가 만든 yolo라는 가상환경으로 코드를 돌릴 수 있도록 설정 마침
