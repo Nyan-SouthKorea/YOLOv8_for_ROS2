@@ -105,6 +105,10 @@ while True:
         break
 ```
 
+## 시연 비디오
+아래 영상과 같이 저사항 노트북 환경에서 YOLOv8 추론 속도는 느리더라도, 비디오 스트리밍은 부드러운 것을 확인 가능합니다.
+![alt text](https://raw.githubusercontent.com/Nyan-SouthKorea/YOLOv8_for_ROS2/main/README_images/demo_video_1.gif)
+
 ## 라이센스
 YOLOv8 라이센스를 따릅니다. 
 https://github.com/ultralytics/ultralytics
