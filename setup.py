@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='ros2_object_detection',
-    version='1.0.3',
+    version='1.0.4',
     description='return prediction information for ros2 autonomous driving from image and depth map',
     long_description=long_description,
     long_description_content_type='text/markdown',
