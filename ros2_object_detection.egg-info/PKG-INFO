@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: ros2_object_detection
+Version: 1.0.3
+Summary: return prediction information for ros2 autonomous driving from image and depth map
+Home-page: https://github.com/Nyan-SouthKorea/YOLOv8_for_ROS2
+Author: Na-I-Eon
+Author-email: 112fkdldjs@naver.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+License-File: LICENSE.txtZone.Identifier
+Requires-Dist: ultralytics
+
 # YOLOv8_for_ROS2
 ROS2 강의에서 YOLOv8 사물인식 파트에 대한 강의 자료
 

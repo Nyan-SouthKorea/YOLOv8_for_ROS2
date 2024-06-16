@@ -1,0 +1,1 @@
+from ros2_object_detection.ros2_object_detection import Custom_YOLOv8

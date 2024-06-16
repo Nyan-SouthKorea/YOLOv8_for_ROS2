@@ -1,0 +1,11 @@
+LICENSE.txt
+LICENSE.txtZone.Identifier
+README.md
+setup.py
+ros2_object_detection/__init__.py
+ros2_object_detection/ros2_object_detection.py
+ros2_object_detection.egg-info/PKG-INFO
+ros2_object_detection.egg-info/SOURCES.txt
+ros2_object_detection.egg-info/dependency_links.txt
+ros2_object_detection.egg-info/requires.txt
+ros2_object_detection.egg-info/top_level.txt
